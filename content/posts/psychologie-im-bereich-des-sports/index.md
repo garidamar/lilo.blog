@@ -3,6 +3,7 @@ title = "Psychologie im Bereich des Sports"
 date = "2023-04-03"
 draft = false
 pinned = false
+image = "kanye8.png"
 description = "Psychologie im Bereich des Sports"
 footnotes = "Garid Amarjargal 2023"
 +++
